@@ -1,6 +1,6 @@
 public class Test {
 
     public static void main(String[] args) {
-        System.out.printf("JDF");
+        System.out.print("JDF");
     }
 }
